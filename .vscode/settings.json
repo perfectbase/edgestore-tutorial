@@ -3,7 +3,8 @@
   "workbench.colorCustomizations": {
     "editorError.foreground": "#ff000000",
     "editorWarning.foreground": "#ff000000",
-    "editorCursor.foreground": "#ff000000"
+    "editorCursor.foreground": "#ff000000",
+    "editorInfo.foreground": "#ff000000"
   },
   "editor.fontLigatures": false,
   "editor.renderLineHighlight": "none",
@@ -24,5 +25,6 @@
   "editor.parameterHints.enabled": false,
   "gitlens.currentLine.enabled": false,
   "gitlens.currentLine.pullRequests.enabled": false,
-  "editor.formatOnSave": false
+  "editor.formatOnSave": false,
+  "window.zoomLevel": 2
 }
