@@ -1,30 +1,32 @@
 {
-  "workbench.colorTheme": "Pitch Black",
-  "workbench.colorCustomizations": {
-    "editorError.foreground": "#ff000000",
-    "editorWarning.foreground": "#ff000000",
-    "editorCursor.foreground": "#ff000000",
-    "editorInfo.foreground": "#ff000000"
-  },
-  "editor.fontLigatures": false,
-  "editor.renderLineHighlight": "none",
-  "editor.matchBrackets": "never",
-  "github.copilot.enable": {
-    "*": false,
-    "yaml": false,
-    "plaintext": false,
-    "markdown": false
-  },
-  "editor.quickSuggestions": {
-    "comments": "off",
-    "strings": "off",
-    "other": "off"
-  },
-  "editor.suggestOnTriggerCharacters": false,
-  "editor.wordBasedSuggestions": false,
-  "editor.parameterHints.enabled": false,
-  "gitlens.currentLine.enabled": false,
-  "gitlens.currentLine.pullRequests.enabled": false,
-  "editor.formatOnSave": false,
-  "window.zoomLevel": 2
+  // "workbench.colorTheme": "Pitch Black",
+  // "workbench.colorCustomizations": {
+  //   "editorError.foreground": "#ff000000",
+  //   "editorWarning.foreground": "#ff000000",
+  //   "editorCursor.foreground": "#ff000000",
+  //   "editorInfo.foreground": "#ff000000"
+  // },
+  // "editor.fontSize": 14,
+  // "editor.fontLigatures": false,
+  // "editor.renderLineHighlight": "none",
+  // "editor.matchBrackets": "never",
+  // "github.copilot.enable": {
+  //   "*": false,
+  //   "yaml": false,
+  //   "plaintext": false,
+  //   "markdown": false
+  // },
+  // "editor.quickSuggestions": {
+  //   "comments": "off",
+  //   "strings": "off",
+  //   "other": "off"
+  // },
+  // "editor.suggestOnTriggerCharacters": false,
+  // "editor.wordBasedSuggestions": false,
+  // "editor.parameterHints.enabled": false,
+  // "gitlens.currentLine.enabled": false,
+  // "gitlens.currentLine.pullRequests.enabled": false,
+  // "editor.formatOnSave": false,
+  // "editor.stickyScroll.enabled": false,
+  // "window.zoomLevel": 2
 }
